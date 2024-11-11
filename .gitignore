@@ -1,0 +1,34 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de configuración de Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Archivos de salida de paquetes NuGet
+*.nupkg
+*.snupkg
+
+# Configuraciones de usuario y de entorno de depuración
+*.userosscache
+*.userprefs
+*.sln.docstates
+*.rsuser
+.idea/
+*.csproj.user
+
+# Archivos generados de la carpeta de propiedades y publicación
+Properties/launchSettings.json
+.publish/
+
+# Archivos de lock para proyectos
+project.lock.json
+project.fragment.lock.json
+
+# Archivos temporales de NuGet
+packages/
+*.nupkg
+.nuget/
